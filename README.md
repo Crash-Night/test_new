@@ -38,12 +38,20 @@
 
 <img width="500px" height="500px" src="https://github.com/Crash-Night/test_new/blob/main/paso6.png" alt="" />
 
-
-<p>6.- Una vez dentro debes de elegir el tipo de la descarga de Linux o Windows para uso personal, como se muestra en la captura de pantalla:</p>
+<p>6.- Una vez dentro debes de elegir el tipo de la descarga de Linux o Windows para uso personal, como se muestra en la captura de pantalla: 👇👇👇</p>
 
 <img width="500px" height="500px" src="https://github.com/Crash-Night/test_new/blob/main/paso7.png" alt="" />
+<img width="500px" height="500px" src="https://github.com/Crash-Night/test_new/blob/main/paso8.png" alt="" />
 
+<p>7.- Para poder habilitar la descarga debes de activar la opcion de "I agree to Terms and Condition" y luego a donde esta el icono azul de la nube: 👇👇👇</p>
 
+<img width="500px" height="500px" src="https://github.com/Crash-Night/test_new/blob/main/paso9.png" alt="" />
+
+<p>8.- Luego haga clic en el botón de descarga a la derecha, le aparecerá un mensaje que le preguntará esto: “Antes de descargar este archivo, se requiere una verificación adicional. ¿Proceder?" presione Sí y serás redirigido a esta página:</p>
+
+<img width="500px" height="500px" src="https://github.com/Crash-Night/test_new/blob/main/paso10.png" alt="" />
+
+<h1>9.- Listo lo unico que queda es descargarlo y instalarlo y disfrutarlo</h1>
 
 </div>
 
